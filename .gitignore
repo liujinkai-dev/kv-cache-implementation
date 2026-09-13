@@ -23,5 +23,9 @@ build/
 *.swp
 *.swo
 
+# C++ build artifacts
+cpp/kv_cache_demo
+cpp/*.out
+
 # Logs
 *.log
